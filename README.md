@@ -1,6 +1,6 @@
 # Naveen Kumar Reddy  
 **Distributed Systems & Platform Engineer**  
-Bengaluru, India · +91-XXXXXXXXXX · naveen62328@gmail.com · [LinkedIn](https://www.linkedin.com/in/naveenkumarreddyk/) · [GitHub](https://github.com/nkr-ops)
+Bengaluru, India · +91-XXXXXXXXXX · Mail · [LinkedIn](https://www.linkedin.com/in/naveenkumarreddyk/) · [GitHub](https://github.com/nkr-ops)
 
 ---
 
