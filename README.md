@@ -23,6 +23,7 @@ Delivered **$10M+ revenue protection** and **$1M+ cost impact**.
   lineage and deviation detection; reduced investigations from days to **<1 hour**
 - Architected real-time analytics foundation on **Apache Druid** (petabyte-scale ingestion,
   async routing, high availability)
+- Infrastructure design reviewer for platforms used by **6+ teams**; led **3 systems end-to-end** and shared ownership of others; governed **10+ AWS accounts**
 - Reduced critical computation from **O(n⁴) → O(1)** (**2+ hours → ~5 minutes, 97%**)
 - Achieved **573,562× lookup speedup** by indexing hot paths and eliminating linear scans
 - Traced EKS OOMKills to **cgroups v2 memory accounting** during Kubernetes upgrades
