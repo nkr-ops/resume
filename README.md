@@ -43,7 +43,7 @@ Delivered **$10M+ revenue protection** and **$1M+ cost impact**.
 
 - Led zero-downtime **monolith → microservices** migration serving 100% production traffic
 - Reduced **P95 latency 850ms → 85ms (10×)** and increased throughput **5×**
-- Reduced infrastructure costs **25% (~$500K/year)**
+- Reduced infrastructure costs by ~$10K/year
 - Implemented distributed tracing and circuit breakers across **20+ services**
 
 ---
